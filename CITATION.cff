@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: RLACS
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Saeed R.
+    family-names: Khosravirad
+    email: saeedrad@gmail.com
+    name-particle: Saeed Reza
+    affiliation: Nokia Bell Labs
+    orcid: 'https://orcid.org/0000-0002-3087-4142'
+repository-code: 'https://github.com/newsaeedrad/RLACS.git'
+keywords:
+  - rateless lossy autoencoder JSCC
